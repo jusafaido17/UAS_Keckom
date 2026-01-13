@@ -1,4 +1,4 @@
-# UAS Kecerdasan Komputasi - TI (5A}
+# UAS Kecerdasan Komputasi - TI (5A)
 
 Anggota Kelompok :
 1. Isra Naswa Reyka Swahili	(23104410006)
