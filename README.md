@@ -1,6 +1,6 @@
-# UAS Kecerdasan Komputasi Kelas 5A
+# UAS Kecerdasan Komputasi - TI Kelas 5A
 
-Anggota Kelompok:
+Anggota Kelompok :
 1. Isra Naswa Reyka Swahili	(23104410006)
 2. Agistha Ardha Sulistyo P.	(23104410009)
 3. Zaki Zakaria Zakse	(23104410010)
